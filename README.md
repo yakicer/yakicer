@@ -2,11 +2,9 @@
 
 ## 👨‍💻 About Me
 
-An accomplished software engineer with a diverse range of skills and over two years of combined freelance(1 yr) and professional experience from work(1 yr). Possess exceptional algorithmic thinking, quick problem-solving abilities, and the knack for devising efficient and cost-effective solutions. Also known for my rapid grasp of programming languages, frameworks, software architectures, and ability to deliver results promptly. My collaborative nature, skill in knowledge transfer, and efficient work ethic makes me an ideal team member.
+An accomplished software engineer and versatile programmer with a diverse range of skills and over two years of combined freelance(1 yr) and professional experience from work(1 yr). Possess exceptional algorithmic thinking, quick problem-solving abilities, and the knack for devising efficient and cost-effective solutions. Also known for my rapid grasp of programming languages, frameworks, software architectures, and ability to deliver results promptly. My collaborative nature, skill in knowledge transfer, and efficient work ethic makes me an ideal team member.
 
 ## 💻 Programming Expertise
-
-An versatile programmer, proficient in a wide array of technologies including:
 
 - **Languages:** 
   [![C#](https://img.shields.io/badge/C%23-239120?style=flat-square&logo=c-sharp&logoColor=white)](https://docs.microsoft.com/en-us/dotnet/csharp/)
