@@ -53,7 +53,7 @@ Pempati.com is a cutting-edge e-commerce platform catering to mothers, babies, a
 ### LogBee
 *May 2023 - Present*
 
-LogBee provides users with a platform to manage and monitor their Esp32 devices and logs in real-time. My contributions involve:
+LogBee provides users with a platform to manage and monitor their Esp32 devices and logs in real-time. Self:
 
 - User authentication and registration system ✅
 - Implementing background services using SignalR and MQTTnet 🌐📡
@@ -68,7 +68,7 @@ LogBee provides users with a platform to manage and monitor their Esp32 devices 
 ### ArasTur
 *April 2023 - June 2023*
 
-ArasTur facilitates hotel and trip reservations for users, offering a seamless booking experience. My contributions encompass:
+ArasTur facilitates hotel and trip reservations for users, offering a seamless booking experience. My contributions involve:
 
 - User authentication and registration components ✅
 - Implementation of booking and payment services 💳🏨
@@ -81,7 +81,9 @@ ArasTur facilitates hotel and trip reservations for users, offering a seamless b
 ### MIQC
 *March 2023 - May 2023*
 
-MIQC serves as a platform for users to input test results and provide feedback, resembling a hospital management system. My contributions involve:
+MIQC serves as a platform for users to input test results and provide feedback, resembling like a hospital management system for laboratories. Self:
+
+A project that I've made from scratch.
 
 - User authentication and registration mechanisms ✅
 - Integration of email communication services 📧
@@ -91,7 +93,7 @@ MIQC serves as a platform for users to input test results and provide feedback, 
 ### HoneyBee Website Project
 *June 2022 - September 2022*
 
-John collaborated on a unique web project that provided beekeepers with insights into bee and plant ecosystems. The project involved technologies such as JavaScript, PHP, and MySQL.
+A unique web project that provided beekeepers with insights into bee and plant ecosystems. The project involved technologies such as JavaScript, PHP, and MySQL.
 
 ## 📞 Contact
 
