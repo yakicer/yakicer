@@ -17,7 +17,6 @@ An versatile programmer, proficient in a wide array of technologies including:
 - **Frameworks:** 
   [![ASP.NET Core](https://img.shields.io/badge/ASP.NET_Core-512BD4?style=flat-square&logo=dotnet&logoColor=white)](https://dotnet.microsoft.com/apps/aspnet)
   [![Angular](https://img.shields.io/badge/Angular-DD0031?style=flat-square&logo=angular&logoColor=white)](https://angular.io/)
-  Object-Oriented Programming (OOP)
   
 - **Web Technologies:** 
   [![HTML](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/HTML)
@@ -34,6 +33,7 @@ An versatile programmer, proficient in a wide array of technologies including:
 - **Others:** 
   [![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)](https://git-scm.com/)
   [![RESTful APIs](https://img.shields.io/badge/RESTful_APIs-FF5733?style=flat-square&logo=insomnia&logoColor=white)](https://insomnia.rest/)
+  Object-Oriented Programming (OOP)
 
 ## 🚀 Professional Experience (Projects)
 
