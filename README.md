@@ -1,4 +1,4 @@
-# YAKUP İÇER <br /> ###Junior Full Stack Software Developer
+# YAKUP İÇER <br /> <h3>Junior Full Stack Software Developer</h3>
 
 ## 👨‍💻 About Me
 
