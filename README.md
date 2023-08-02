@@ -30,8 +30,7 @@ An accomplished software engineer and versatile programmer with a diverse range 
 - **Others:** 
   [![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)](https://git-scm.com/)
   [![RESTful APIs](https://img.shields.io/badge/RESTful_APIs-FF5733?style=flat-square&logo=insomnia&logoColor=white)](https://insomnia.rest/)
-  Object-Oriented Programming (OOP)
-
+  
 ## 🚀 Professional Experience (Projects)
 
 ### Pempati
