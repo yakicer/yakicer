@@ -1,7 +1,7 @@
 # Yakup İÇER - *Junior Full Stack Developer*
 ## 👨‍💻 About Me
 
-An accomplished software engineer and versatile programmer with a diverse range of skills and over two years of combined freelance(1 yr) and professional experience from work(1 yr). Possess exceptional algorithmic thinking, quick problem-solving abilities, and the knack for devising efficient and cost-effective solutions. Also known for my rapid grasp of programming languages, frameworks, software architectures, and ability to deliver results promptly. My collaborative nature, skill in knowledge transfer, and efficient work ethic makes me an ideal team member.
+An accomplished software engineer and versatile programmer with a diverse range of skills and over two years of combined freelance (1 yr) and professional experience from work (1 yr). Possess exceptional algorithmic thinking, quick problem-solving abilities, and the knack for devising efficient and cost-effective solutions. Also known for my rapid grasp of programming languages, frameworks, software architectures, and ability to deliver results promptly. My collaborative nature, skill in knowledge transfer, and efficient work ethic makes me an ideal team member.
 
 ## 💻 Programming Expertise
 
