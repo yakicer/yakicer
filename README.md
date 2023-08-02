@@ -35,7 +35,7 @@ An accomplished software engineer and versatile programmer with a diverse range 
 
 ### Pempati 
 <div style="background-color: white; padding: 10px; border-radius: 5px; text-align: center;">  
-<a href="https://www.pempati.com">
+<a href="https://www.pempati.com" style="background-color: white; padding: 10px; border-radius: 5px; text-align: center;">
   <img src="https://pempati.com/images/logo.png" alt="Pempati.com" width="250"/>  </div>  
 </a>
 
@@ -82,7 +82,7 @@ ArasTur facilitates hotel and trip reservations for users, offering a seamless b
 ### MIQC
   
   <div style="background-color: white; padding: 10px; border-radius: 5px; text-align: center;">  
-<a href="https://www.miqc.net">
+<a href="https://www.miqc.net" style="background-color: white; padding: 10px; border-radius: 5px; text-align: center;">
   <img src="https://miqc.net/miqc_html/images/MIQC_logo.png" alt="miqc.net" width="250"/>  </div>  
 </a>
 
