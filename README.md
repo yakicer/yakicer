@@ -34,7 +34,8 @@ An accomplished software engineer and versatile programmer with a diverse range 
 
 ## 🚀 Professional Experience (Projects)
 
-### [Pempati.com](https://www.pempati.com)
+### Pempati
+[Pempati.com](https://www.pempati.com)
 *May 2023 - Present*
 
 Pempati.com is a cutting-edge e-commerce platform catering to mothers, babies, and children. I am actively contributing to the following aspects of the project:
