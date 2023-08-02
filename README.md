@@ -38,7 +38,9 @@ An accomplished software engineer and versatile programmer with a diverse range 
 [Pempati.com](https://www.pempati.com)  
   
   *May 2023 - Present*
-![Pempati.com](https://pempati.com/images/logo.png)
+<div style="background-color: white; padding: 10px; border-radius: 5px;">  
+<img src="https://pempati.com/images/logo.png" alt="Pempati.com" width="150"/>  </div>
+
 Pempati.com is a cutting-edge e-commerce platform catering to mothers, babies, and children. I am actively contributing to the following aspects of the project:
 
 - User authentication and registration ✅
@@ -83,7 +85,9 @@ ArasTur facilitates hotel and trip reservations for users, offering a seamless b
 
 [Miqc.net](https://www.miqc.net)  
   
-  *March 2023 - May 2023*
+  *March 2023 - May 2023*  
+  <div style="background-color: white; padding: 10px; border-radius: 5px;">  
+<img src="https://miqc.net/miqc_html/images/MIQC_logo.png" alt="Pempati.com" width="150"/>  </div>
 
 MIQC serves as a platform for users to input test results and provide feedback, resembling like a hospital management system for laboratories. Self:
 
