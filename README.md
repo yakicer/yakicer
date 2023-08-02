@@ -102,7 +102,7 @@ A unique web project that provided beekeepers with insights into bee and plant e
 
 ## 📞 Contact
 
-Connect with Me on [GitHub](https://github.com/JohnDoeCoder) and [LinkedIn](https://www.linkedin.com/in/johndoe) for more details and insights into my diverse portfolio.
+Connect with me on [GitHub](https://github.com/JohnDoeCoder) and [LinkedIn](https://www.linkedin.com/in/johndoe) for more details and insights into my diverse portfolio.
 
 [![GitHub Follow](https://img.shields.io/github/followers/yakicer?label=Follow&style=social)](https://github.com/yakicer)
 [![LinkedIn Connect](https://img.shields.io/badge/Connect-LinkedIn-blue)](https://www.linkedin.com/in/yakup-içer-yakicer)
