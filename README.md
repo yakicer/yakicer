@@ -37,7 +37,8 @@ An accomplished software engineer and versatile programmer with a diverse range 
 ### Pempati
 
 [Pempati.com](https://www.pempati.com)  
-*May 2023 - Present*
+  
+  *May 2023 - Present*
 
 Pempati.com is a cutting-edge e-commerce platform catering to mothers, babies, and children. I am actively contributing to the following aspects of the project:
 
@@ -82,7 +83,8 @@ ArasTur facilitates hotel and trip reservations for users, offering a seamless b
 ### MIQC
 
 [Miqc.net](https://www.miqc.net)  
-*March 2023 - May 2023*
+  
+  *March 2023 - May 2023*
 
 MIQC serves as a platform for users to input test results and provide feedback, resembling like a hospital management system for laboratories. Self:
 
