@@ -35,8 +35,8 @@ An accomplished software engineer and versatile programmer with a diverse range 
 
 ### Pempati 
 <div style="background-color: white; padding: 10px; border-radius: 5px; text-align: center;">  
-<a href="https://www.pempati.com" style="background-color: white; padding: 10px; border-radius: 5px; text-align: center;">
-  <img src="https://pempati.com/images/logo.png" alt="Pempati.com" width="250"/>  </div>  
+<a href="https://www.pempati.com" >
+  <img src="https://pempati.com/images/logo.png" alt="Pempati.com" width="400"/>  </div>  
 </a>
 
 Pempati.com is a cutting-edge e-commerce platform catering to mothers, babies, and children. I am actively contributing to the following aspects of the project:
@@ -82,8 +82,8 @@ ArasTur facilitates hotel and trip reservations for users, offering a seamless b
 ### MIQC
   
   <div style="background-color: white; padding: 10px; border-radius: 5px; text-align: center;">  
-<a href="https://www.miqc.net" style="background-color: white; padding: 10px; border-radius: 5px; text-align: center;">
-  <img src="https://miqc.net/miqc_html/images/MIQC_logo.png" alt="miqc.net" width="250"/>  </div>  
+<a href="https://www.miqc.net" >
+  <img src="https://miqc.net/miqc_html/images/MIQC_logo.png" alt="miqc.net" width="400"/>  </div>  
 </a>
 
   *March 2023 - May 2023*  
