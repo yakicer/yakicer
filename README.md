@@ -1,5 +1,5 @@
 # YAKUP İÇER   
-### Junior Full Stack Software Developer
+  Junior Full Stack Software Developer
 
 ## 👨‍💻 About Me
 
