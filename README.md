@@ -68,7 +68,7 @@ LogBee provides users with a platform to manage and monitor their Esp32 devices 
 
 ### ArasTur
 <a href="#" >
-  <img src="https://www.arastur.com.tr/public/images/site/logo.png" alt="Arastur.com" width="400"/>  </div>  
+  <img src="[https://www.arastur.com.tr/public/images/site/logo.png](https://arastur.com.tr/Uploads/SystemSetup/133483265292050991.png)" alt="Arastur.com" width="400"/>  </div>  
 </a>
 
 *April 2023 - June 2023*
