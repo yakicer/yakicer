@@ -53,7 +53,7 @@ Pempati.com is a cutting-edge e-commerce platform catering to mothers, babies, a
 
 ### LogBee
 <a href="#" >
-  <img src="https://www.biocoder.com.tr/assets/img/BioCoder.png" alt="biocoder.com.tr" width="400"/>  
+  <img src="https://portal.biocoder.com.tr/admin_dashboard/assets/img/BioCoder.png" alt="biocoder.com.tr" width="400"/>  
 </a>
 
 *May 2023 - Present*
