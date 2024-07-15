@@ -36,7 +36,7 @@ An accomplished software engineer and versatile programmer with a diverse range 
 ### Pempati 
 <div style="background-color: white; padding: 10px; border-radius: 5px; text-align: center;">  
 <a href="https://www.pempati.com" >
-  <img src="https://pempati.com/assets/img/logo.png" alt="Pempati.com" width="400"/>  </div>  
+  <img src="https://pempati.com/assets/img/logo.webp" alt="Pempati.com" width="400"/>  </div>  
 </a>
 
 Pempati.com is a cutting-edge e-commerce platform catering to mothers, babies, and children. I am actively contributing to the following aspects of the project:
