@@ -1,7 +1,13 @@
 # Yakup İÇER - *Mid-Senior Backend Developer*
 ## 👨‍💻 About Me
 
-An accomplished software engineer and versatile programmer with a diverse range of skills and over two years of combined freelance (1 yr) and professional experience from work (2 yr). Possess exceptional algorithmic thinking, quick problem-solving abilities, and the knack for devising efficient and cost-effective solutions. Also known for my rapid grasp of programming languages, frameworks, software architectures, and ability to deliver results promptly. My collaborative nature, skill in knowledge transfer, and efficient work ethic makes me an ideal team member.
+Solution-oriented and versatile Software Developer with 6+ years of experience delivering scalable web applications
+and backend systems using .NET technologies and Angular. Specialized in designing modular, maintainable
+architectures based on clean code, SOLID principles, and microservices. Strong hands-on background in Blazor, RESTful
+APIs, Entity Framework, and modern frontend frameworks. Proven ability to work across the full software
+development lifecycle — from architecture design to deployment — with a strong emphasis on clean architecture,
+performance optimization, and cloud-readiness. Collaborative team player with solid experience in Agile environments
+and client-facing roles.
 
 ## 💻 Programming Expertise
 
